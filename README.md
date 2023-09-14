@@ -1,6 +1,6 @@
 ## Live Link
 
-You can access the live application at [https://e-shopit.vercel.app/](https://e-shopit.vercel.app/).
+You can access the live application at [https://e-shopit.vercel.app/](https://e-shopit.vercel.app).
 
 # MERN-E-Commerce-Backend
 
