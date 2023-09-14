@@ -19,6 +19,7 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 - Product details and reviews
 - Cart management
 - Order history
+- 
 
 ## Tech Stack
 
